@@ -1,1 +1,2 @@
-# Atividade-Fecaf
+# Atividade-FECAF
+Loja de games
